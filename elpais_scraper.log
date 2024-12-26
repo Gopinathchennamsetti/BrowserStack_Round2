@@ -1,0 +1,22 @@
+2024-12-26 16:12:07,986 - INFO - Created image directory: article_images_20241226_161207
+2024-12-26 16:12:16,191 - INFO - Accepted cookies
+2024-12-26 16:12:25,460 - INFO - Navigated to Opinion section
+2024-12-26 16:12:25,887 - INFO - Found 10 article links matching dates: ['/opinion/2024-12-26/', '/opinion/2024-12-25/']
+2024-12-26 16:12:25,887 - INFO - Processing article 1 of 10
+2024-12-26 16:12:32,243 - INFO - Found title: Siria y los peros
+2024-12-26 16:12:32,557 - INFO - Found image URL: https://imagenes.elpais.com/resizer/v2/UZUB6TJUT5EAPH3SLUPZE3Z4EA.JPG?auth=80c0c682e50976cdcc33ad51a0a6cc096fb881582c04a583ce6478a79dc3c77b&width=414
+2024-12-26 16:12:32,557 - INFO - Processing article 2 of 10
+2024-12-26 16:12:36,357 - INFO - Found title: El gobierno de los millonarios
+2024-12-26 16:12:36,540 - INFO - Found image URL: https://imagenes.elpais.com/resizer/v2/Q6XAOHWGGVFCHLHSJOVDLAA7SE.jpg?auth=f797c1d7b9c03879f5d11801a8041ab216bea9abefd0a45916e302224ff464d0&width=414
+2024-12-26 16:12:36,541 - INFO - Processing article 3 of 10
+2024-12-26 16:12:39,785 - INFO - Found title: Nochevieja adelantada
+2024-12-26 16:12:39,943 - INFO - Found image URL: https://imagenes.elpais.com/resizer/v2/5EAJUKZZYZU7GNTZURKZHDP6UY.jpg?auth=770e5a8950efe91dba1b234c94f386f5932e2dc012ff7124ff5d8b1d41faea3b&width=414
+2024-12-26 16:12:39,943 - INFO - Processing article 4 of 10
+2024-12-26 16:12:43,003 - INFO - Found title: Olvidos de la memoria democrática
+2024-12-26 16:12:43,172 - INFO - Found image URL: https://imagenes.elpais.com/resizer/v2/O3MV3OWBIRHT7OTABESFQJ6KJY.jpg?auth=7da189ae655ff1ba596b9a4fa7362f22839abf8806c35f4b1ffe02b2db180c52&width=414
+2024-12-26 16:12:43,172 - INFO - Processing article 5 of 10
+2024-12-26 16:12:48,594 - INFO - Found title: Lo admito, la Tierra es esférica
+2024-12-26 16:12:48,848 - INFO - Found image URL: https://imagenes.elpais.com/resizer/v2/HNXCVC45DNAZ3LFITNFLY4EA5Y.jpg?auth=af4ac0c563c0181be21a30e90f0cb5a142ce0c361b39139050991add1341012c&width=414
+2024-12-26 16:49:17,621 - INFO - Created image directory: article_images_20241226_164917
+2024-12-26 16:49:24,973 - INFO - Accepted cookies
+2024-12-26 16:51:25,978 - ERROR - Navigation error: HTTPConnectionPool(host='localhost', port=58025): Read timed out. (read timeout=120)
